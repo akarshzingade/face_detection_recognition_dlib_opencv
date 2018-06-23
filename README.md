@@ -1,6 +1,6 @@
-# face_detection_recognition_dlib_opencv
+# Can a Neural Network spot Tyler Durden? Using Dlib and OpenCV for Face Detection and Recognition
 
-This repository is in support of the this blog. It contains code for Face Detection and Face Recognition using OpenCV and Dlib libraries. 
+This repository is in support of the this [blog](https://medium.com/@akarshzingade/can-a-neural-network-spot-tyler-durden-using-dlib-and-opencv-for-face-detection-and-recognition-fd16f744be3e). It contains code for Face Detection and Face Recognition using OpenCV and Dlib libraries. 
 
 ## Face Detection
 Face Detection can be done using OpenCV's dnn module, OpenCV's Cascade Classifier and Dlib's "get_frontal_face_detector" method. 
